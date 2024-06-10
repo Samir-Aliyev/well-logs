@@ -1,0 +1,3 @@
+SOURCE_BUCKET=bp-de-well-logs-dbf
+TABLE_NAME=bp-de-well-logs-dbf
+FUNCTION_NAME=bp-de-well-logs-dbf
